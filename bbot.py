@@ -7,7 +7,7 @@ import lv
 offset=upp.rd_updd("update.txt")
 timeout="99999999"
 message=""
-token = "https://api.telegram.org/bot957357490:AAFCiZe4Pptt8ayry1FSGT6ZOT_mLo0sr_I/getupdates?"
+token = "https://api.telegram.org/bot*************************************/getupdates?"
 r = None
 cus_array=None
      
