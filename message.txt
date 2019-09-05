@@ -25,37 +25,14 @@ Me , mywife
 /start
 /start
 Hi
-Abeni,man
-/start
-Hi,ne
-/start
-Hola
-Abeni,someone
-/start
-Temesgen D, Abenezer T
-Abenezer bushti, new adel?
-/start
-NARDOS T, Yeabsira F
-/start
-Naomi E, Yeabsira F
-Nardos Amare,Natenael Tilahun
-NARDOS A,Natenael T
-NardosT,Dagim
-NARDOS T,Amanuel A
-NARDOS T,Yeabsira F
-NARDOS T, NardosT
-/start
-/start
-NARDOS T, Nani A
+
 Someone, temesgen d.
-Elu,Aki
+
 Just tell, me who
 Check
 /start
 Ayseram
-Abe,nzz
 /start
-M S,L K
 Check,check
 Check,check
 Check,check
